@@ -1,3 +1,4 @@
+// typescript 1
 var output = function (text: string) {
   return text;
 };
